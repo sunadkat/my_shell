@@ -7,7 +7,7 @@ My shell supports:
 
 
 To Compile: 
-"make" compiles into executable "my_shell", "make clean" to clear this. 
+The "make" compiles into an executable file named "my_shell", and the command "make clean" is used to delete the executable file.
 
 Reference Files: 
 - shell-pipe.c from class to help with implementing piping 
