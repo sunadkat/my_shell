@@ -1,4 +1,4 @@
-As a part of an operating systems class, I created a shell which mimics some functionality of the linux system shell. 
+Thi shell mimics some functionality of the linux system shell. 
 
 My shell supports: 
 - Multiple piping
