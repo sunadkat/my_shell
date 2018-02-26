@@ -1,17 +1,16 @@
-As a part of an operating systems class, I created a shell which mimics some functionality of the linux system shell. 
+My_shell is a script that mimics basic functionalities of the Linux system shell. 
 
-My shell supports: 
+My _shell supports: 
 - Multiple piping
-- Internal commads cd to change directory and exit to exit the shell
+- Internal commands: 'cd' to change change directory, and 'exit' to terminate the shell
 - Change of input line buffer size at the top of the file 
 
-
 To Compile: 
-"make" compiles into executable "my_shell", "make clean" to clear this. 
+Use command "make" to compile the script into an executable "my_shell" file. Use "make clean" to clear remove these files.
 
 Reference Files: 
-- shell-pipe.c from class to help with implementing piping 
+- shell-pipe.c to assist in implementing piping 
 - Used "Hints for Assignment One" main loop and system calls 
-- Looked at : brennan.io/2015/01/16/write-a-shell-in-c/ to help with parsing the input line 
-- Looked at all websites listed in FAQ (gnu.org) on sample shell creation 
-- Also asked TA for help
+- Referenced: brennan.io/2015/01/16/write-a-shell-in-c/ to help in parsing the input line 
+- Reviewed websites listed in the FAQ (gnu.org) on sample shell creation
+- Sought assistance from the TA
